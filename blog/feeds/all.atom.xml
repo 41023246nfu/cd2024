@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T06:12:46+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2024-Spring-W13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-05-17T07:14:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-17:./2024-Spring-W13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T06:34:15+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2024-spring-ke-cheng-w13.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-05-24T06:32:09+08:00</updated><author><name>KMOL</name></author><id>tag:None,2024-05-17:./2024-spring-ke-cheng-w13.html</id><summary type="html">&lt;p&gt;Slug: 2024-Spring-W13-blog-tutorial
+Author: 41023246&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Slug: 2024-Spring-W13-blog-tutorial
+Author: 41023246&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;上課內容摘要：
@@ -21,21 +27,21 @@ Siemens NX 1872安裝與設定：
 零組件繪圖與模擬：
 使用Solvespace和Siemens NX完成鋼球平衡台零組件的繪製。
 將零組件導入CoppeliaSim進行模擬，並建立競技場景。
-以上工作分配和進度整理將有助於團隊高效地完成任務，確保每位成員都能充分發揮自己的能力並貢獻於團隊目標的實現。&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./2024-Spring-W12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-24T06:12:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-10:./2024-Spring-W12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+以上工作分配和進度整理將有助於團隊高效地完成任務，確保每位成員都能充分發揮自己的能力並貢獻於團隊目標的實現。&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./2024-Spring-W12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-24T06:32:18+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-05-10:./2024-Spring-W12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;這門課程的內容非常豐富多彩，學生們在其中學習了許多實用的技能和知識。從使用 Siemens NX1872 進行零組件繪圖，到協同機電系統模擬設計，再到跨網路操控足球機器人進行競技，每一部分都具有挑戰性和實用性。課程設計還注重團隊合作和協同作業，這對培養學生的團隊精神和溝通能力至關重要。我認為，這門課程將為學生的未來職業發展奠定堅實的基礎，讓他們在機械設計領域中更具競爭力。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./2024-Spring-W11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-24T06:10:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./2024-Spring-W11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這門課程的內容非常豐富多彩，學生們在其中學習了許多實用的技能和知識。從使用 Siemens NX1872 進行零組件繪圖，到協同機電系統模擬設計，再到跨網路操控足球機器人進行競技，每一部分都具有挑戰性和實用性。課程設計還注重團隊合作和協同作業，這對培養學生的團隊精神和溝通能力至關重要。我認為，這門課程將為學生的未來職業發展奠定堅實的基礎，讓他們在機械設計領域中更具競爭力。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./2024-Spring-W11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-24T06:32:24+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-05-03:./2024-Spring-W11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;這門課程的內容非常豐富，涵蓋了從零組件繪圖到協同設計的多個主題。學生需要學習使用 Siemens NX1872 進行零組件繪圖，並將過程影片放入個人與分組網站中。此外，學生還需要學習如何建立協同 Web-based 機電系統模擬設計，包括使用 NX 的各種功能、了解不同版本的 CoppeliaSim 存檔上的差異等。課程還強調了團隊合作和協同作業的重要性，這有助於培養學生的團隊精神和溝通能力。整體而言，這門課程為學生提供了豐富的學習體驗，幫助他們在未來的職業生涯中取得成功。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-W10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-24T06:04:09+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./2024-Spring-W10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這門課程的內容非常豐富，涵蓋了從零組件繪圖到協同設計的多個主題。學生需要學習使用 Siemens NX1872 進行零組件繪圖，並將過程影片放入個人與分組網站中。此外，學生還需要學習如何建立協同 Web-based 機電系統模擬設計，包括使用 NX 的各種功能、了解不同版本的 CoppeliaSim 存檔上的差異等。課程還強調了團隊合作和協同作業的重要性，這有助於培養學生的團隊精神和溝通能力。整體而言，這門課程為學生提供了豐富的學習體驗，幫助他們在未來的職業生涯中取得成功。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-W10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-24T06:32:26+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-04-26:./2024-Spring-W10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;在第十週的實習中，我們充分利用了多種工具和技術，提升了在協同設計和實作中的能力。透過 Replit 平台的使用，我們能夠有效地維護和管理分組倉儲，這使得我們的協作更加順暢和高效。此外，在鋼球平衡台的實驗中，通過閱讀和總結多篇相關論文，我們深入了解了不同控制方法的優缺點，並應用這些知識來改進我們的設計。&lt;/p&gt;
 &lt;p&gt;尤其在 PID 控制和模擬的實驗中，我們學會了如何通過調整控制參數來優化系統的性能。這不僅加深了我們對控制理論的理解，也提高了我們實際動手操作的能力。最後，通過使用 Siemens NX 進行零組件繪圖，我們熟練掌握了從設計到實現的整個流程，並且體會到了團隊合作在複雜項目中的重要性。&lt;/p&gt;
-&lt;p&gt;總的來說，本週的實習讓我們對協同產品設計有了更深刻的認識和實踐經驗，為我們未來的學習和工作打下了堅實的基礎。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2024-Spring-W9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-24T06:06:57+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./2024-Spring-W9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;總的來說，本週的實習讓我們對協同產品設計有了更深刻的認識和實踐經驗，為我們未來的學習和工作打下了堅實的基礎。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2024-Spring-W9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-24T06:32:33+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-04-19:./2024-Spring-W9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -57,21 +63,21 @@ Siemens NX 1872安裝與設定：
 在第十週的實習中，我們深入學習和實踐了多種網際內容管理和協同設計的技術和工具。通過使用 Replit 平台來維護和管理分組倉儲，我們體會到了協同工作的便利性和高效性。這些工具使得我們能夠更好地組織和分享我們的工作成果。&lt;/p&gt;
 &lt;p&gt;在鋼球平衡台的實驗中，通過閱讀和總結多篇相關論文，我們不僅增進了對控制理論的理解，還學會了如何在實際應用中進行調整和改進。通過 PID 控制的實驗，我們掌握了如何利用控制參數來優化系統性能，這對我們未來的設計和實作提供了寶貴的經驗。&lt;/p&gt;
 &lt;p&gt;使用 Siemens NX 進行零組件繪圖的過程中，我們體會到了精確繪圖和設計的重要性。這不僅提升了我們的技術能力，也讓我們更好地理解了從設計到實現的完整流程。&lt;/p&gt;
-&lt;p&gt;總的來說，本週的實習讓我們在協同設計和內容管理方面獲得了豐富的實踐經驗，為未來的學習和工作打下了堅實的基礎。這些經驗教會了我們如何更有效地協同工作，並在實際應用中靈活運用所學知識。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2024-Spring-W8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-24T05:59:43+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-12:./2024-Spring-W8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;總的來說，本週的實習讓我們在協同設計和內容管理方面獲得了豐富的實踐經驗，為未來的學習和工作打下了堅實的基礎。這些經驗教會了我們如何更有效地協同工作，並在實際應用中靈活運用所學知識。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2024-Spring-W8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-24T06:32:39+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-04-12:./2024-Spring-W8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;在這門協同產品設計實習課程中，我們使用了多種工具和技術來協同進行產品設計。首先，我們使用了 Github Classroom 來建立分組倉儲，並利用 cmsimde_site 作為倉儲的引擎目錄，通過 Python 編輯網頁，最後轉換為靜態網頁以展示產品設計過程的多媒體內容。&lt;/p&gt;
 &lt;p&gt;除了網站內容外，我們還使用 Pelican 管理網誌，並使用 Reveal 管理簡報。在每週的內容管理過程中，我們採用了四種不同的方法來進行 Python 網頁編輯，包括 Replit、Codespaces、Gitpod 和 localhost，這讓我們可以根據自己的喜好和環境選擇合適的工具。&lt;/p&gt;
 &lt;p&gt;在協同設計的架構上，我們設計了多種協同模式，包括分組網站內容的協同、分組報告內容的協同、分組產品設計的 PLM 協同、分組零組件設計的協同、分組模擬場景設計的協同和分組專案簡報設計的協同。這些協同模式使得我們能夠更有效地進行產品設計，並在實際應用中獲得更好的結果。&lt;/p&gt;
-&lt;p&gt;這門課程讓我們學到了許多有關協同產品設計的知識和技能，並通過實際操作提高了我們的能力。這對我們未來的工作和學習將會有很大的幫助。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2024-Spring-W6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-04-12T06:22:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-W6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這門課程讓我們學到了許多有關協同產品設計的知識和技能，並通過實際操作提高了我們的能力。這對我們未來的工作和學習將會有很大的幫助。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2024-Spring-W6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-24T06:33:37+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-03-29:./2024-Spring-W6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;協同產品設計實習的第六週, 說明協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式.&lt;/p&gt;
 &lt;p&gt;註記: 以下教學影片雖經過除噪音處理, 但效果仍不好, 可能之後必須重新錄影.&lt;/p&gt;
 &lt;p&gt;Github Actions 帶有子模組的 main.yml 設定
-加入取子模組內容的 main.yml 設定&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w5</title><link href="./2024-Spring-W5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-29T08:22:12+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-W5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+加入取子模組內容的 main.yml 設定&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w5</title><link href="./2024-Spring-W5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-24T06:33:44+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-03-22:./2024-Spring-W5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -79,14 +85,14 @@ Siemens NX 1872安裝與設定：
 &lt;p&gt;cd2024 2a w5 1 組員在 Replit 以 SSH 設定管理分組倉儲的權限&lt;/p&gt;
 &lt;h1&gt;ODOO PLM 論文中英並列任務&lt;/h1&gt;
 &lt;p&gt;教學影片分組整理並自評&lt;/p&gt;
-&lt;p&gt;如何統整組員子模組中的協同設計網誌&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2024-Spring-W4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-29T08:10:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-W4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;如何統整組員子模組中的協同設計網誌&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2024-Spring-W4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-24T06:33:53+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-03-15:./2024-Spring-W4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;協同產品設計實習的第四週, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 另外 Git Branch 的應用, 也可減少各學員階段性改版內容完成之前, 推向 Github 分組倉儲過程的合併次數.&lt;/p&gt;
 &lt;h1&gt;教學影片分組整理並自評&lt;/h1&gt;
 &lt;p&gt;w4 2a 分組任務&lt;/p&gt;
-&lt;p&gt;Github 個人與分組倉儲的維護方式&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-W3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T08:05:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-W3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;Github 個人與分組倉儲的維護方式&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-W3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-24T06:33:59+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-03-08:./2024-Spring-W3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -94,12 +100,12 @@ Siemens NX 1872安裝與設定：
 &lt;p&gt;cd2024 期中分組倉儲與網站&lt;/p&gt;
 &lt;p&gt;使用 Gitpod 維護倉儲與網站&lt;/p&gt;
 &lt;p&gt;將組員的個人倉儲設為分組倉儲子模組&lt;/p&gt;
-&lt;p&gt;利用可攜程式編譯 LaTeX&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2024-Spring-W2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-24T05:52:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-W2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;利用可攜程式編譯 LaTeX&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2024-Spring-W2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-24T06:34:04+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-03-01:./2024-Spring-W2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;我們在課堂上學習了許多有關使用 Github Classroom、Replit 和 Github Codespaces 的實用技巧。透過 Github Classroom，我們能夠輕鬆配置分組倉儲，讓每個組員都具有對倉儲的改版權限。在 Replit 中，我們學習了如何利用 SSH 連接到 Github 帳號下的特定倉儲，並解決了因為擁有者是 mdecd2024 帳號而無法授權的問題。此外，我們還討論了在 Replit 的免費帳號環境中維護授權資料的注意事項，以及如何最佳化使用 Github Codespaces 的免費 core hours。&lt;/p&gt;
-&lt;p&gt;另外，在比較 Odoo 與 SAP 時，我們參考了一份關於 Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析。這些內容不僅讓我們熟悉了這些工具和軟體的使用方式，也讓我們更深入地了解了它們在實際應用中的差異和優缺點。這些學習將對我們未來的工作和學習帶來很大幫助。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w1</title><link href="./2024-Spring-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-03-29T07:29:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./2024-Spring-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;另外，在比較 Odoo 與 SAP 時，我們參考了一份關於 Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析。這些內容不僅讓我們熟悉了這些工具和軟體的使用方式，也讓我們更深入地了解了它們在實際應用中的差異和優缺點。這些學習將對我們未來的工作和學習帶來很大幫助。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w1</title><link href="./2024-Spring-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-24T06:34:09+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-02-23:./2024-Spring-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -110,7 +116,7 @@ Siemens NX 1872安裝與設定：
 &lt;p&gt;下載可攜套件檔案&lt;/p&gt;
 &lt;p&gt;如何 import 倉儲至 Replit 進行改版&lt;/p&gt;
 &lt;p&gt;設定網誌&lt;/p&gt;
-&lt;p&gt;Odoo PLM 功能&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-24T05:46:52+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;Odoo PLM 功能&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-24T06:34:15+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
