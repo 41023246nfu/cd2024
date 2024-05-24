@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T05:49:49+08:00</updated><entry><title>2024 Spring 課程w9</title><link href="./2024-Spring-W9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-04-26T05:49:49+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./2024-Spring-W9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T06:06:57+08:00</updated><entry><title>2024 Spring 課程w9</title><link href="./2024-Spring-W9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-24T06:06:57+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./2024-Spring-W9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;協同產品設計實習的專案實習, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
-&lt;p&gt;協同資料處理
-請各班各組根據 2a_cd2024_midterm.csv, 以及 2b_cd2024_midterm.csv 中的學號、Github 帳號與組別, 設法在各組員與分組網站中, 列出各學員的 cd2024 倉儲、網站, 以及各班各組的期中報告倉儲與網站連結.&lt;/p&gt;
-&lt;p&gt;過程中, 請詳細說明各組及學員的倉儲與網站中的連結資料如何建立? 手動輸入? 利用程式進行處理? 或者採分工合作方式建立?&lt;/p&gt;
-&lt;p&gt;2b step1 取出資料放入數列&lt;/p&gt;
-&lt;p&gt;鋼球平衡台 PID 控制與模擬
-請下載 cd2024_ball_balancing_platform_control_ref.7z, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
-&lt;p&gt;對 Gemini 1.5 Pro 提問:&lt;/p&gt;
-&lt;p&gt;以下為利用 PID 控制 CoppeliaSim 鋼球平衡台場景的 ZMQ RemoteAPI Python 程式, 請利用 Python 模組將系統控制過程, 鋼球在平衡台上的 x 方向座標與 y 方向, 利用 matplotlib 畫出來. "這裡附上原本的 PID 控制程式碼"&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;p&gt;第十週的實習操作重點：&lt;/p&gt;
+&lt;p&gt;維護分組倉儲：&lt;/p&gt;
+&lt;p&gt;利用 Replit 平台維護分組倉儲。
+使用 Replit 帳號建立學員倉儲、網站和分組連結。
+設定學員倉儲和網站連結模板。
+目標：根據 2a_cd2024_midterm.csv 和 2b_cd2024_midterm.csv 中的學號、Github 帳號與組別，建立各學員與分組的倉儲和網站連結。
+鋼球平衡台 PID 控制與模擬：&lt;/p&gt;
+&lt;p&gt;下載並閱讀 cd2024_ball_balancing_platform_control_ref.7z。
+將各篇論文摘要內容放入個人與分組網誌中。
+論文內容涉及球體平衡平台的建構、控制理論與實驗結果。
+使用 ZMQ RemoteAPI Python 程式在 CoppeliaSim 中模擬鋼球平衡台，並通過 PID 控制畫出鋼球的運動路徑。
+鋼球平衡台零組件繪圖：&lt;/p&gt;
+&lt;p&gt;根據 Solvespace_model_2d_for_cd2024_w6.7z 提供的尺寸資料，使用 Siemens NX 1872 進行零組件繪圖。
+完成後將過程影片放入個人與分組網站中。
+心得
+在第十週的實習中，我們深入學習和實踐了多種網際內容管理和協同設計的技術和工具。通過使用 Replit 平台來維護和管理分組倉儲，我們體會到了協同工作的便利性和高效性。這些工具使得我們能夠更好地組織和分享我們的工作成果。&lt;/p&gt;
+&lt;p&gt;在鋼球平衡台的實驗中，通過閱讀和總結多篇相關論文，我們不僅增進了對控制理論的理解，還學會了如何在實際應用中進行調整和改進。通過 PID 控制的實驗，我們掌握了如何利用控制參數來優化系統性能，這對我們未來的設計和實作提供了寶貴的經驗。&lt;/p&gt;
+&lt;p&gt;使用 Siemens NX 進行零組件繪圖的過程中，我們體會到了精確繪圖和設計的重要性。這不僅提升了我們的技術能力，也讓我們更好地理解了從設計到實現的完整流程。&lt;/p&gt;
+&lt;p&gt;總的來說，本週的實習讓我們在協同設計和內容管理方面獲得了豐富的實踐經驗，為未來的學習和工作打下了堅實的基礎。這些經驗教會了我們如何更有效地協同工作，並在實際應用中靈活運用所學知識。&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
