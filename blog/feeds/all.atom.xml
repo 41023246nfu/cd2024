@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T06:38:14+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2024-Spring-W13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-05-24T06:38:14+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-05-17:./2024-Spring-W13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T06:10:53+08:00</updated><entry><title>2024 Spring 課程w14</title><link href="./2024-Spring-W14-blog-tutorial.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-05-31T06:10:53+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-05-23:./2024-Spring-W14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;上課內容摘要：
+本週的課程主要著重於可攜程式系統的概念和應用，特別是在 Windows 64 位元操作系統環境下的開發。我們討論了在不同操作系統下執行可攜程式系統的需求，並介紹了一些常用的開發工具和軟體，如Python、Git、CoppeliaSim等。此外，我們也探討了數位化與網路化對產品設計工程師的影響，以及如何應對未來協同設計的趨勢。&lt;/p&gt;
+&lt;p&gt;分組報告執行分工及進度整理：&lt;/p&gt;
+&lt;p&gt;個人與分組倉儲的建立及維護：
+每位成員建立自己的個人倉儲，並將其與分組倉儲相連接。
+確保個人倉儲的更新和維護工作。
+Odoo PLM 系統設定與使用：
+每個分組註冊一個Odoo帳號，並在其中建立免費的PLM模組。
+將參考論文的協同翻譯流程作為工作項目，紀錄在PLM系統中。
+教學影片製作與字幕添加：
+分工製作教學影片，並添加字幕以提高觀看體驗。
+整理影片逐字稿和教學重點，準備進行期中自評。
+Siemens NX 1872安裝與設定：
+要求每位學員下載並安裝Siemens NX 1872至個人設備，並完成認證後方可使用。
+確保安裝過程順利進行並提供支援。
+零組件繪圖與模擬：
+使用Solvespace和Siemens NX完成鋼球平衡台零組件的繪製。
+將零組件導入CoppeliaSim進行模擬，並建立競技場景。
+以上工作分配和進度整理將有助於團隊高效地完成任務，確保每位成員都能充分發揮自己的能力並貢獻於團隊目標的實現。&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w13</title><link href="./2024-Spring-W13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-05-24T06:38:14+08:00</updated><author><name>41023246</name></author><id>tag:None,2024-05-17:./2024-Spring-W13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
